@@ -1,10 +1,12 @@
 # DistributedSystem-Project-PastaBot
 Distributed System Project for Bachelor Course of Software Engineering at Politecnico di Bari.
-The aim of this project is producing a Pasta recommendation system.
+The aim of this project is producing a multimodal Pasta recommendation system.
 
-After an intense research process, a telegram bot has been developed using Telegram Chatbot python library.
+After an intense research process (which led to the production of a research article for a pubblication), a Telegram bot has been developed using Telegram Chatbot python library.
 
 SCENARIO & STEPS:
+Multimodal recommendation systems: the user communicates with a chatbot which uses both text and images. 
+
 
 Two possibile interactions:
 - Recommendation ingredients-oriented: provide a set of dishes by filtering a menu with respect of dishes ingredients
