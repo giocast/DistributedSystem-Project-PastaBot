@@ -22,6 +22,9 @@ IMAGE-ORIENTED RECOMMENDATION STEPS:
 
 
 
+
+
+
 How to run
 - Create a bot directory
 - Run command pipenv install python-telegram-bot
