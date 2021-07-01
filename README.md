@@ -20,3 +20,10 @@ INGREDIENTS-ORIENTED RECOMMENDATION STEPS:
 IMAGE-ORIENTED RECOMMENDATION STEPS:
 1) Stay tuned...
 
+
+
+How to run
+- Create a bot directory
+- Run command pipenv install python-telegram-bot
+- Run command pipenv run python pastaBot.py
+- Search for the bot into Telegram app and start the conversation
