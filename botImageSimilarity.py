@@ -84,7 +84,7 @@ def creaMatrixSimilitudine():
     global immagini
     global matrixSimilarity
     
-    f = numpy.loadtxt("nomi piatti.txt", dtype=str, skiprows=1)
+    f = numpy.loadtxt("nomiPiatti.txt", dtype=str, skiprows=1)
     urlPiatti = list(f)
     
     print(urlPiatti)
