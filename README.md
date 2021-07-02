@@ -2,7 +2,7 @@
 Distributed System Project for Bachelor Course of Software Engineering at Politecnico di Bari.
 The aim of this project is producing a multimodal Pasta recommendation system (Pasta MMCIS).
 
-After an intense research process (which led to the production of a research article for a probable pubblication), a Telegram bot has been developed using Telegram Chatbot python library.
+After an intense research process (which led to the production of a research article for a possible pubblication), a Telegram bot has been developed using Telegram Chatbot python library.
 
 SCENARIO: A multimodal recommendation systems allows the user to communicate with a chatbot which uses both text and images. After the communication process, the chatbot has tot provide a pasta dish recommendation based on user preferences.
 
