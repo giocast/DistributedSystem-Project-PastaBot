@@ -9,7 +9,7 @@ SCENARIO: A multimodal recommendation systems allows the user to communicate wit
 
 Two possibile interactions:
 - Ingredients-oriented recommendation: provide a set of dishes by filtering the menu with respect of dishes ingredients
-- Image-oriented recommendation: provide pasta dishes with a certain level of mutual similarity 
+- Image-oriented recommendation: provide pasta dishes with a certain level of images mutual similarity 
 
 
 INGREDIENTS-ORIENTED RECOMMENDATION STEPS:
