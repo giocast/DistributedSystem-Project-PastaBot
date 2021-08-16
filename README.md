@@ -1,5 +1,5 @@
 # DistributedSystem-Project-PastaBot
-Distributed System Project for Bachelor Course of Software Engineering at Politecnico di Bari.
+Distributed System Project for Master Course of Software Engineering at Politecnico di Bari.
 The aim of this project is producing a multimodal Pasta recommendation system (Pasta MMCIS).
 
 After an intense research process (which led to the production of a research article for a possible pubblication), a Telegram bot has been developed using Telegram Chatbot python library.
